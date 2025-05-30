@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+pillow
+rembg
+python-multipart
